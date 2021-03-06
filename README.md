@@ -2,7 +2,8 @@
 This project aims to make the adding and deleting of items much more easier wth the help of the swing GUI builder. The code is open source and there is a lot to be made. I look forward to making the add Row feature possible. 
 ## Getting Started
 
-Make sure the jars in the `lib` folder are added to your deppendecies in this project
+Make sure the jars in the `lib` folder are added to your dependecies in this project
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
